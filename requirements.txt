@@ -1,0 +1,5 @@
+# Main project requirements
+# Install backend and simulator dependencies
+
+-r backend/requirements.txt
+-r simulator/requirements.txt
